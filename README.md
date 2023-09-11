@@ -1,39 +1,31 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Elins Cocktailbar
 
-Welcome,
+The purpose of this website is to give people a way of making bar drinks at home. For those who are having a party, maybe want to show off a little, or those who just want to expreiment a little and see what they like. This will be a great way for people to have fun at home while also not spending as much money as they would out in a physical bar or pub. This site will target those of legal drinking age who are trying to get a bit more information on the drink making scene.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Features
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+* Navigation Bar
 
-## Codeanywhere Reminders
+There will be a navigation bar on all the three pages, home, drinks and sign up. The navigation bar will look exactly the same on all these pages for easy navigation. This way the user won't have to revert back using the going back button all the time and can jump to every page no matter which page they are on currently.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+* The Landing Page
 
-`python3 -m http.server`
+Information about the website and what the user can expect will be part of the landing page, as well as some pictures.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* Flip-Cards
+  
+To show the recepies to the user there will be flip-cards on the drinks page. This is to allow the user to first see a picture of the drink and as they hover over the card they will see the recipe. As the saying goes `we feast with our eyes´, so by showing a picture of the drinks first it will catch the users attention and also curiosity to find out how it is made.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+* Sign up
 
-`http_server`
+For the sign up page the user will be able to subscribe to the page so that they can keep up with new recepies that will be added as time goes on. The user will also be able to send in feedback on this page so they can engage in the content.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* Footer
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+The footer will also be shown on all three pages and look identical on all of them, this for easy access to social media which will be linked.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Future features
 
-To log into the Heroku toolbelt CLI:
+In the future I would like to add an extra page which will include content of other types of drinks, such as wine and beer. These will have the same outlook as the drinks by being shown on flip-cards, however on the backside there will be a flavor profile instead of a recepie.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+I would also like for there to be a search bar at the top of the pages, except for the home page, so that people won't have to scroll to find what they're looking for.
