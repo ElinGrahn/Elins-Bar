@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Kalam&display=swap');
 
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body{
     font-family: 'Bad Script', sans-serif;
     min-height: 100vh;
@@ -13,6 +19,7 @@ body header{
 
 header{
     background-color: aliceblue;
+    width: 100%;
 }
 
 header a{
@@ -22,6 +29,16 @@ header a{
 h1 {
     display: flex;
     justify-content: center;
+    font-size: 280%;
+    letter-spacing: 2px;
+}
+
+.menu{
+    font-size: x-large;
+}
+
+.menu li{
+    margin-top: 1em;
 }
 
 main{
