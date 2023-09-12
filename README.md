@@ -39,3 +39,7 @@ The colors used will be bright and cute, I'm thinking orange background with whi
 The heading section will have a background image instead of a color, also showing the user straigth away what they will get out of this page.
 
 ## Wireframes
+
+## Credit
+
+Favicon from <https://favicon.io/favicon-generator/>
