@@ -29,3 +29,13 @@ The footer will also be shown on all three pages and look identical on all of th
 In the future I would like to add an extra page which will include content of other types of drinks, such as wine and beer. These will have the same outlook as the drinks by being shown on flip-cards, however on the backside there will be a flavor profile instead of a recepie.
 
 I would also like for there to be a search bar at the top of the pages, except for the home page, so that people won't have to scroll to find what they're looking for.
+
+## Typography and color scheme
+
+For the h1 heading I will use either Kalam or Kaushan Script, I want it to give a homie but also a little fancy feel. This font will also be used in the rest of the heading section, such as the navigation. And for the rest of the page I will use Bad Script.
+
+The colors used will be bright and cute, I'm thinking orange background with white text. The flip cards will probobly be a green or blue to hopefully contrast nicely and pop out. When you click the navigation bar it will have a white background color with black text, once again to pop out and just make it obvious to the user what is happening on the page. 
+
+The heading section will have a background image instead of a color, also showing the user straigth away what they will get out of this page.
+
+## Wireframes
