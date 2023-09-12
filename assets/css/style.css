@@ -6,6 +6,7 @@
     box-sizing: border-box;
 }
 
+/*general styling*/
 body{
     font-family: 'Bad Script', sans-serif;
     min-height: 100vh;
@@ -13,13 +14,11 @@ body{
     flex-direction: column;
 }
 
-body header{
-    font-family: 'Kalam', sans-serif;
-}
-
+/*Header*/
 header{
     background-color: aliceblue;
     width: 100%;
+    font-family: 'Kalam', sans-serif;
 }
 
 header a{
@@ -41,12 +40,19 @@ h1 {
     margin-top: 1em;
 }
 
+/*put same color as text*/
+.active{
+    border-bottom: 1px solid;
+}
+
+/*Main Content*/
 main{
     background-color: tomato;
     /*make main element take up any surplus space to push footer down*/
         flex: 1 0 auto;
 }
 
+/*Footer*/
 footer{
     background-color: blueviolet;
 }
