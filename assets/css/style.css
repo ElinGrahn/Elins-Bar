@@ -12,6 +12,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
 }
 
 /*Header*/
@@ -32,8 +33,7 @@ header a {
 h1 {
     display: flex;
     justify-content: center;
-    font-size: 200%;
-    letter-spacing: 2px;
+    font-size: large;
 }
 
 .menu {
@@ -83,6 +83,16 @@ main {
     margin-top: 47px;
 }
 
+img{
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /*Footer*/
 footer {
     background-color: blueviolet;
@@ -109,6 +119,11 @@ footer {
 
     .nav-toggle-label{
         display: none;
+    }
+
+    h1{
+        font-size: 200%;
+        letter-spacing: 2px;
     }
 }
 
