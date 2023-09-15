@@ -88,8 +88,9 @@ main {
     justify-content: center;
 }
 
+/*Images on main page*/
 img{
-    width: 200px;
+    width: 230px;
     height: 150px;
     padding: 5px;
     margin-top: 20px;
@@ -99,10 +100,11 @@ img{
     align-items: center;
 }
 
+/*Paragraphs*/
 .front-page{
     background-color: rgba(18, 16, 16, .7);
     bottom: 30px;
-    width: 80%;
+    width: 250px;
     min-height: 200px;
     padding-top: 15px;
     padding-left: 10px;
@@ -115,8 +117,8 @@ img{
 }
 
 #intro{
-   justify-content: end;
    margin-bottom: 10px;
+   right: 0px;
 }
 
 /*Footer*/
@@ -150,6 +152,21 @@ footer {
     h1{
         font-size: 200%;
         letter-spacing: 2px;
+    }
+
+    img{
+        width: 300px;
+        height: 200px;
+    }
+
+    #first-div{
+        display: flex;
+        flex-direction: row;
+    }
+
+    #second-div{
+        display: flex;
+        flex-direction: row-reverse;
     }
 }
 
