@@ -192,12 +192,12 @@ ul li{
 }
 
 .flip-card-front {
-    background-color: #6495ED;
+    background-color: rgba(18, 16, 16, .7);
     color: black;
 }
 
 .flip-card-back {
-    background-color: #2980b9;
+    background-color: rgba(18, 16, 16, .7);
     color: white;
     transform: rotateY(180deg);
     word-wrap: normal;
