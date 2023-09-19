@@ -84,8 +84,6 @@ main {
     /*make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 47px;
-    display: flex;
-    justify-content: center;
 }
 
 /*Images on main page*/
@@ -112,13 +110,17 @@ img{
 }
 
 #main-section div{
-    display: flex;
-    justify-content: center;
+
 }
 
 #intro{
    margin-bottom: 10px;
-   right: 0px;
+
+}
+
+/*Sign Up page*/
+#text-area{
+font-size: smaller;
 }
 
 /*Footer*/
@@ -160,13 +162,11 @@ footer {
     }
 
     #first-div{
-        display: flex;
-        flex-direction: row;
+        
     }
 
     #second-div{
-        display: flex;
-        flex-direction: row-reverse;
+        
     }
 }
 

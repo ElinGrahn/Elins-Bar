@@ -37,8 +37,7 @@
       </a>
       <i class="fa-solid fa-martini-glass-citrus"></i>
       <input type="checkbox" id="nav-toggle" name="nav-toggle" />
-      <label for="nav-toggle" class="nav-toggle-label"
-        >x</label>
+      <label for="nav-toggle" class="nav-toggle-label">x</label>
       <!--Navigation-->
       <nav>
         <ul class="menu">
@@ -48,7 +47,28 @@
         </ul>
       </nav>
     </header>
-    <main>main</main>
+    <main>
+      <section>
+        <div>
+          <h2>Sign up for more updates!</h2>
+        </div>
+        <div>
+          <form action="" method="post">
+            <label for="first-name">First Name</label>
+            <input type="firstname" name="firstname" id="first-name" required /> <br>
+            <label for="last-name">Last Name</label>
+            <input type="lastname" name="lastname" id="last-name" required /> <br>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" required> <br>
+            <fieldset>
+                <legend>Feedback</legend>
+                <label for="feedback" id="text-area">What would you like to see more of:</label>
+                <textarea name="feedback" id="feedback" rows="4" cols="30"></textarea>
+            </fieldset>
+          </form>
+        </div>
+      </section>
+    </main>
     <footer>footer</footer>
   </body>
 </html>
