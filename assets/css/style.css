@@ -133,6 +133,7 @@ font-size: smaller;
     position: inherit;
     top: 5px;
     bottom: 5px;
+    display: inline-block;
 }
 
 .flip-card-front>img{
@@ -201,6 +202,18 @@ ul li{
     color: white;
     transform: rotateY(180deg);
     word-wrap: normal;
+}
+
+.flip-card-back>h2, .flip-card-back h3, .flip-card-back li, .flip-card-back p{
+    font-size: smaller;
+}
+
+.flip-card-back>h2{
+    text-decoration: underline;
+}
+
+.flip-card-back li{
+    list-style-type: none;
 }
 
 /*Footer*/
