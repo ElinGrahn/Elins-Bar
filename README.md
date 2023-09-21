@@ -36,7 +36,7 @@ For the h1 heading I will use either Kalam or Kaushan Script, I want it to give 
 
 The colors used will be bright and cute, I'm thinking orange background with white text. The flip cards will probobly be a green or blue to hopefully contrast nicely and pop out. When you click the navigation bar it will have a white background color with black text, once again to pop out and just make it obvious to the user what is happening on the page. 
 
-The heading section will have a background image instead of a color, also showing the user straigth away what they will get out of this page.
+The heading section will use the color #003300.
 
 ## Wireframes
 
