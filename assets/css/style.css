@@ -126,8 +126,6 @@ img {
     justify-content: center;
 }
 
-#second-div {}
-
 #intro {
     margin-bottom: 10px;
     margin-top: 5px;
@@ -138,7 +136,7 @@ img {
     font-size: smaller;
 }
 
-#sign-up{
+#sign-up {
     margin-top: 25%;
     background-color: rgba(48, 31, 34, .7);
     padding-left: 5px;
@@ -279,20 +277,20 @@ footer {
         height: 200px;
     }
 
-    #first-div {
-        display: flex;
-        justify-content: space-evenly;
-    }
-
-    #second-div {
-        display: flex;
-        justify-content: space-evenly;
-        flex-direction: row-reverse;
-    }
-
     .front-page {
-        width: 350px;
+        width: 500px;
+        font-size: x-large;
+    }
 
+    #first-div>div>img,
+    #second-div>div>img {
+        width: 500px;
+        height: 400px;
+    }
+
+    #main-section {
+        display: flex;
+        justify-content: center;
     }
 
     /*Drinks page*/
@@ -309,13 +307,14 @@ footer {
         height: 350px;
     }
 
-    #section-one, #section-two{
+    #section-one,
+    #section-two {
         display: inline-block;
-        
+
     }
 
     /*Sign up page*/
-    #sign-up{
+    #sign-up {
         height: 70vw;
         width: 50%;
         display: flex;
@@ -323,12 +322,32 @@ footer {
 }
 
 @media screen and (min-width: 992px) {
-    #sign-up{
+    img {
+        width: 300px;
+        height: 200px;
+    }
+
+    #first-div {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    #second-div {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: row-reverse;
+    }
+
+    .front-page {
+        width: 350px;
+
+    }
+
+    #sign-up {
         width: 30%;
         height: 100%;
         border: #c5d5c5 solid;
     }
 
-    #container{
-    }
+    #container {}
 }
