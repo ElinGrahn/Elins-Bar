@@ -22,7 +22,7 @@ header {
     font-family: 'Kalam', sans-serif;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
     position: fixed;
     box-shadow: 0 2px 2px #3a3a3a;
     z-index: 99;
@@ -33,7 +33,6 @@ header a {
 }
 
 h1 {
-    align-self: center;
     font-size: large;
     color: #3b3a30;
 }
@@ -129,6 +128,11 @@ img {
 #intro {
     margin-bottom: 10px;
     margin-top: 5px;
+}
+
+#main-section {
+    display: flex;
+    justify-content: center;
 }
 
 /*Sign Up page*/
@@ -322,6 +326,8 @@ footer {
 }
 
 @media screen and (min-width: 992px) {
+    
+    /*Main page*/
     img {
         width: 300px;
         height: 200px;
@@ -343,6 +349,19 @@ footer {
 
     }
 
+    /*Drinks page*/
+    #first-div>div>img,
+    #second-div>div>img {
+        width: 400px;
+        height: 300px;
+    }
+
+    .column1, .column2{
+        display: flex;
+       justify-content: flex-end;
+    }
+
+    /*Sign up page*/
     #sign-up {
         width: 30%;
         height: 100%;
