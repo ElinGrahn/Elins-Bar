@@ -323,7 +323,7 @@ footer li{
         display: inline-block;
         width: 250px;
         height: 350px;
-        margin-top: 20px;
+        margin-top: 100px;
     }
 
 
@@ -375,16 +375,14 @@ footer li{
     }
 
     /*Drinks page*/
+    .flip-card{
+        margin-bottom: 20px;
+    }
+
     #first-div>div>img,
     #second-div>div>img {
         width: 400px;
         height: 300px;
-    }
-
-    .column1,
-    .column2 {
-        display: flex;
-        justify-content: flex-end;
     }
 
     /*Sign up page*/
