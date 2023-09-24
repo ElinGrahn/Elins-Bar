@@ -243,11 +243,7 @@ ul li {
     list-style-type: none;
 }
 
-.column1 {
-    display: inline-block;
-}
-
-.column2 {
+.column1, .column2 {
     display: inline-block;
 }
 
