@@ -146,21 +146,29 @@ img {
     padding-left: 5px;
 }
 
+#signup-main {
+    background-image: ("../images/signup background.jpg");
+    width: 100%;
+    height: 100%;
+}
+
 /*Drinks page*/
 .flip-card {
     background-color: transparent;
-    width: 230px;
-    height: 330px;
+    width: 250px;
+    height: 350px;
     perspective: 1000px;
     position: inherit;
     top: 5px;
     bottom: 5px;
     margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .flip-card-front>img {
-    width: 230px;
-    height: 330px;
+    width: 250px;
+    height: 350px;
     position: absolute;
     margin-top: 0%;
 
@@ -180,7 +188,9 @@ ul li {
 
 .flip-card5 {}
 
-.flip-card6 {}
+.flip-card6 {
+    margin-bottom: 10px;
+}
 
 .flip-card-inner {
     width: 100%;
@@ -241,10 +251,21 @@ ul li {
     display: inline-block;
 }
 
+#drinks-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 /*Footer*/
 footer {
     background-color: #c5d5c5;
     color: #3b3a30;
+}
+
+footer li{
+    display: flex;
+    flex-direction: row;
 }
 
 /*Media query*/
@@ -311,6 +332,10 @@ footer {
         height: 350px;
     }
 
+    .flip-card6{
+        margin-bottom: 0px;
+    }
+
     #section-one,
     #section-two {
         display: inline-block;
@@ -326,7 +351,7 @@ footer {
 }
 
 @media screen and (min-width: 992px) {
-    
+
     /*Main page*/
     img {
         width: 300px;
@@ -356,9 +381,10 @@ footer {
         height: 300px;
     }
 
-    .column1, .column2{
+    .column1,
+    .column2 {
         display: flex;
-       justify-content: flex-end;
+        justify-content: flex-end;
     }
 
     /*Sign up page*/
@@ -369,4 +395,7 @@ footer {
     }
 
     #container {}
+
+    /*footer*/
+
 }
