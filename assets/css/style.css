@@ -375,6 +375,11 @@ footer li{
         height: 300px;
     }
 
+    .flip-card2, .flip-card5{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
     /*Sign up page*/
     #sign-up {
         width: 30%;
