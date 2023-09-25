@@ -146,11 +146,6 @@ img {
     padding-left: 5px;
 }
 
-style {
-    width: 100px;
-    height: 100px;
-}
-
 /*Drinks page*/
 .flip-card {
     background-color: transparent;
@@ -176,16 +171,6 @@ style {
 ul li {
     text-transform: capitalize;
 }
-
-.flip-card1 {}
-
-.flip-card2 {}
-
-.flip-card3 {}
-
-.flip-card4 {}
-
-.flip-card5 {}
 
 .flip-card6 {
     margin-bottom: 10px;
@@ -385,9 +370,22 @@ footer li{
         width: 30%;
         height: 100%;
         border: #c5d5c5 solid;
+        margin-top: 150px;
+        margin-bottom: 50px;
+        margin-right: 10px;
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
 
-    #container {}
+    #signup-main {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    #container{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
 
     /*footer*/
 
