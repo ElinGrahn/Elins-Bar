@@ -361,7 +361,14 @@ footer li{
 
     .front-page {
         width: 350px;
+    }
 
+    #first-img, #intro{
+        margin-right: 50px;
+    }
+
+    #welcome, #sec-img{
+        margin-left: 50px;
     }
 
     /*Drinks page*/
