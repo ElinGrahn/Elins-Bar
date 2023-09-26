@@ -121,10 +121,12 @@ img {
     margin-left: 5px;
 }
 
+/*First image and paragraph*/
 #first-div {
     justify-content: center;
 }
 
+/*Second paragraph*/
 #intro {
     margin-bottom: 10px;
     margin-top: 5px;
@@ -140,13 +142,15 @@ img {
     font-size: smaller;
 }
 
+/*Section with the text*/
 #sign-up {
     margin-top: 25%;
     background-color: rgba(48, 31, 34, .7);
     padding-left: 5px;
 }
 
-div>form button{
+/*Submit button*/
+div>form button {
     padding: 3px;
     margin-top: 15px;
     margin-bottom: 5px;
@@ -167,6 +171,7 @@ div>form button{
     margin-right: 0px;
 }
 
+/*Image of flip cards*/
 .flip-card-front>img {
     width: 250px;
     height: 350px;
@@ -175,10 +180,12 @@ div>form button{
 
 }
 
+/*'Making of' part*/
 ul li {
     text-transform: capitalize;
 }
 
+/*Kaffe karlsson*/
 .flip-card6 {
     margin-bottom: 10px;
 }
@@ -234,7 +241,9 @@ ul li {
     list-style-type: none;
 }
 
-.column1, .column2 {
+/*Text on 'strawberry mojito' card, so it fits*/
+.column1,
+.column2 {
     display: inline-block;
 }
 
@@ -250,7 +259,7 @@ footer {
     color: #3b3a30;
 }
 
-footer li{
+footer li {
     display: flex;
     flex-direction: row;
 }
@@ -267,6 +276,7 @@ footer li{
         padding-right: 1rem;
     }
 
+    /*nav links*/
     .menu {
         display: flex;
     }
@@ -289,11 +299,13 @@ footer li{
         height: 200px;
     }
 
+    /*Paragrphs*/
     .front-page {
         width: 500px;
         font-size: x-large;
     }
 
+    /*Images home page*/
     #first-div>div>img,
     #second-div>div>img {
         width: 500px;
@@ -313,16 +325,18 @@ footer li{
         margin-top: 100px;
     }
 
-
+    /*Images on flip cards*/
     .flip-card-front>img {
         width: 250px;
         height: 350px;
     }
 
-    .flip-card6{
+    /*kaffe karlsson*/
+    .flip-card6 {
         margin-bottom: 0px;
     }
 
+    /*Sectioning flip cards into two sections to get them in two equal rows*/
     #section-one,
     #section-two {
         display: inline-block;
@@ -348,32 +362,34 @@ footer li{
         height: 200px;
     }
 
+    /*First image and paragraph*/
     #first-div {
         display: flex;
         justify-content: space-evenly;
     }
 
+    /*Second image and paragraph*/
     #second-div {
         display: flex;
         justify-content: space-evenly;
         flex-direction: row-reverse;
     }
 
+    /*both paragraphs*/
     .front-page {
         width: 350px;
     }
 
-    #first-img, #intro{
+    /*First image and second paragraph*/
+    #first-img,
+    #intro {
         margin-right: 50px;
     }
 
-    #welcome, #sec-img{
+    /*First paragraph and second image*/
+    #welcome,
+    #sec-img {
         margin-left: 50px;
-    }
-
-    /*Drinks page*/
-    .flip-card{
-        margin-bottom: 20px;
     }
 
     #first-div>div>img,
@@ -382,7 +398,15 @@ footer li{
         height: 300px;
     }
 
-    .flip-card2, .flip-card5{
+    /*Drinks page*/
+    .flip-card {
+        margin-bottom: 20px;
+    }
+
+
+    /*Caipirhina and Irish coffee*/
+    .flip-card2,
+    .flip-card5 {
         margin-left: 100px;
         margin-right: 100px;
     }
