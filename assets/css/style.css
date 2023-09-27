@@ -85,7 +85,7 @@ nav {
 
 /*Main Content*/
 main {
-    background-color: #e0876a;
+    background-color: #f4e1d2;
     /*make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 47px;
@@ -259,6 +259,9 @@ ul li {
 footer {
     background-color: #c5d5c5;
     color: #3b3a30;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
 }
 
 footer li {
