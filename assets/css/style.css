@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: antiquewhite;
+    color: #faebd7;
 }
 
 /*Header*/
@@ -115,7 +115,7 @@ img {
 /*Paragraphs*/
 /*Background of text from Love Running*/
 .front-page {
-    background-color: rgba(18, 16, 16, .7);
+    background-color: #121010b3;
     bottom: 30px;
     width: 200px;
     min-height: 250px;
@@ -151,7 +151,7 @@ img {
 /*Background of text borrowed from Love Running*/
 #sign-up {
     margin-top: 25%;
-    background-color: rgba(48, 31, 34, .7);
+    background-color: #301f22b3;
     padding-left: 5px;
 }
 
@@ -162,7 +162,7 @@ div>form button {
     margin-top: 15px;
     margin-bottom: 5px;
     font-family: 'Kalam';
-    background-color: whitesmoke;
+    background-color: #f5f5f5;
     color: #3a3a3a;
 }
 
@@ -206,7 +206,7 @@ ul li {
     text-align: center;
     transition: transform 0.6s;
     transform-style: preserve-3d;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 #00000033;
     position: relative;
 }
 
@@ -225,13 +225,13 @@ ul li {
 }
 
 .flip-card-front {
-    background-color: rgba(18, 16, 16, .7);
-    color: black;
+    background-color: #121010b3;
+    color: #000000;
 }
 
 .flip-card-back {
-    background-color: rgba(18, 16, 16, .7);
-    color: white;
+    background-color: #121010b3;
+    color: #ffffff;
     transform: rotateY(180deg);
     word-wrap: normal;
 }
