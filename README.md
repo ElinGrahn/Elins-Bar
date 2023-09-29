@@ -2,7 +2,7 @@
 
 The purpose of this website is to give people a way of making bar drinks at home. For those who are having a party, maybe want to show off a little, or those who just want to expreiment and see what they like. This will be a great way for people to have fun at home while also not spending as much money as they would out in a physical bar or pub. This site will target those of legal drinking age who are trying to get a bit more information on the drink making scene.
 
-
+<!--add am i responsive-->
 
 # User Stories
 
@@ -10,6 +10,7 @@ The user will start at the home page where he/she will get an introduction. By u
 
 ## Features
 
+<!--Add screenshots-->
 * Navigation Bar
 
 There will be a navigation bar on all the three pages, home, drinks and sign up. The navigation bar will look exactly the same on all these pages for easy navigation. This way the user won't have to revert back using the going back button all the time and can jump to every page no matter which page they are on currently.
@@ -26,6 +27,10 @@ To show the recepies to the user there will be flip-cards on the drinks page. Th
 
 For the sign up page the user will be able to subscribe to the page so that they can keep up with new recepies that will be added as time goes on. The user will also be able to send in feedback on this page so they can engage in the content.
 
+* Dump page
+
+Once the form has been submitted, the user will be taken to a new page to confirm that the users information has been sent
+
 * Footer
 
 The footer will also be shown on all three pages and look identical on all of them, this for easy access to social media which will be linked.
@@ -40,7 +45,15 @@ I would also like for there to be a search bar at the top of the drinks page so 
 
 For the h1 heading I will use the font Kalam imported from google, I want it to give a homie but also a little fancy feel. This font will also be used in the rest of the heading section, such as the navigation. And for the rest of the page I will use Bad Script.
 
+As for colors, I want to give a soft impression, something that gives off a cute and welcoming feel and for that effect I use pastell in the header and a off  white as the background. For some contrast I have a dark brown used as a background of the paragraphs and flip-cards.
+
+## Wireframes
+
 ## Testing
+
+* The website has been tested on microsoft edge and safari
+* By using devtools I have been able to make sure that the page is responsive on different screen sizes
+* The form has been tested that all fields, except for the comment one, are required and that the submit button works
 
 ## Bugs
 
@@ -51,8 +64,6 @@ For the h1 heading I will use the font Kalam imported from google, I want it to 
 ## Validator testing
 
 ## Deployment
-
-## Wireframes
 
 ## Credit
 
