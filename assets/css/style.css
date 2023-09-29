@@ -149,10 +149,28 @@ img {
 
 /*Section with the text*/
 /*Background of text borrowed from Love Running*/
-#sign-up {
+#sign-up,
+.dump-page {
     margin-top: 25%;
     background-color: #301f22b3;
     padding-left: 5px;
+}
+
+.dump-page {
+    width: 75%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.dump-main {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.dump-page>h1 {
+    color: #faebd7;
 }
 
 /*Submit button*/
