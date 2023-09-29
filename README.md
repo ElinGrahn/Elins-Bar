@@ -2,6 +2,10 @@
 
 The purpose of this website is to give people a way of making bar drinks at home. For those who are having a party, maybe want to show off a little, or those who just want to expreiment a little and see what they like. This will be a great way for people to have fun at home while also not spending as much money as they would out in a physical bar or pub. This site will target those of legal drinking age who are trying to get a bit more information on the drink making scene.
 
+# User Stories
+
+The user will start at the home page where he/she will get an introduction. By using the navigation bar the user can then go to the link called drinks, this page has six diffrerent flip-cards with a picture of the drink on the front and the recepie on the back.For the user to see the back they will only need to hover with the mouse on a computer or pres  it on a mobile or tablet. Following the link to the sign up page, the user can fill out the form and add a comment if they would like. Once they submit the form they will be taken to a page, not in a new tab, where it says "thank you for visiting my page!". If the user would like to go to the home page, all of the headings lead to that page.
+
 ## Features
 
 * Navigation Bar
