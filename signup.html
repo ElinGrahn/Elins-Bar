@@ -47,29 +47,100 @@
         </ul>
       </nav>
     </header>
-    <main id="signup-main" style="background-image: url('assets/images/signup\ background.jpg'); background-size: cover; background-repeat: no-repeat;">
+    <main
+      id="signup-main"
+      style="
+        background-image: url('assets/images/signup-background.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+      "
+    >
       <section id="sign-up">
-        <div>
+        <div class="signup-heading">
           <h2>Sign up for more updates!</h2>
         </div>
-        <div>
-          <form action="dump.html" method="get" target="_blank">
+        <div class="signup-form">
+          <form action="dump.html" method="get">
             <label for="first-name">First Name</label>
-            <input type="text" name="firstname" id="first-name" placeholder="Jane" required /> <br>
+            <input
+              type="text"
+              name="firstname"
+              id="first-name"
+              placeholder="Jane"
+              required
+            />
+            <br />
             <label for="last-name">Last Name</label>
-            <input type="text" name="lastname" id="last-name" placeholder="Doe" required /> <br>
+            <input
+              type="text"
+              name="lastname"
+              id="last-name"
+              placeholder="Doe"
+              required
+            />
+            <br />
             <label for="email">Email</label>
-            <input type="email" name="email" id="email" placeholder="janedoe@email.com" required> <br>
+            <input
+              type="email"
+              name="email"
+              id="email"
+              placeholder="janedoe@email.com"
+              required
+            />
+            <br />
             <fieldset>
-                <legend>Feedback</legend>
-                <label for="feedback" id="text-area">What would you like to see more of:</label>
-                <textarea name="feedback" id="feedback" placeholder="Write something here!" rows="4" cols="30"></textarea>
+              <legend>Feedback</legend>
+              <label for="feedback" id="text-area"
+                >What would you like to see more of:</label
+              >
+              <textarea
+                name="feedback"
+                id="feedback"
+                placeholder="Write something here!"
+                rows="4"
+                cols="30"
+              ></textarea>
             </fieldset>
             <button type="submit">Submit</button>
           </form>
         </div>
       </section>
     </main>
-    <footer>footer</footer>
+    <footer>
+      <!--Font awesome script-->
+      <script
+        src="https://kit.fontawesome.com/f5164fe53b.js"
+        crossorigin="anonymous"
+      ></script>
+      <ul class="social-networks">
+        <li>
+          <a
+            href="https://www.facebook.com/"
+            rel="noopener"
+            target="_blank"
+            aria-label="Go to our facebook page"
+            ><i class="fa-brands fa-square-facebook"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="https://www.instagram.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Go to our instagram page"
+            ><i class="fa-brands fa-instagram"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="https://www.twitter.com/"
+            target="_blank"
+            rel="noopener"
+            aria-label="Go to our  twitter page"
+            ><i class="fa-brands fa-x-twitter"></i
+          ></a>
+        </li>
+      </ul>
+    </footer>
   </body>
 </html>
