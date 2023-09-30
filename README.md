@@ -49,19 +49,25 @@ As for colors, I want to give a soft impression, something that gives off a cute
 
 ## Wireframes
 
+## Technology
+
+HTML, CSS, 
+
 ## Testing
 
-* The website has been tested on microsoft edge and safari
-* By using devtools I have been able to make sure that the page is responsive on different screen sizes
-* The form has been tested that all fields, except for the comment one, are required and that the submit button works
+### Code validation
 
-## Bugs
+No errors were found when using the w3c validator ang (Jigsaw) validator.
 
-### Solved bugs
+### Fixed bugs
 
-### Unsolved bugs
+Quite some issues with the flip-cards, in particular the placement of them as well as having the text fit within the cards. 
 
-## Validator testing
+For the text I only resolved it by shortening the text but I would assume that I also could've made the gap between each line of text smaller. I didn't want the cards to look to muddy though so I just cut down the text. I fixed the placement issue by seperating the cards into two groups with three in each and put display: inline-block; to have them show up in two rows.
+
+### Browsers
+
+  The website has been tested on microsoft edge and safari
 
 ## Deployment
 
