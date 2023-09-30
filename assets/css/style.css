@@ -310,7 +310,6 @@ footer li {
 @media screen and (min-width: 768px) {
 
     /*Header*/
-    /*Love Running*/
     nav {
         display: block;
         position: relative;
@@ -487,7 +486,3 @@ footer li {
         display: flex;
         justify-content: center;
     }
-
-    /*footer*/
-
-}

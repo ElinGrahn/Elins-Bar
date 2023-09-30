@@ -51,7 +51,7 @@ As for colors, I want to give a soft impression, something that gives off a cute
 
 ## Technology
 
-HTML, CSS, 
+HTML, CSS, import of google fonts
 
 ## Testing
 
@@ -71,10 +71,51 @@ For the text I only resolved it by shortening the text but I would assume that I
 
 ## Deployment
 
+The website was deployed to GitHub pages using the following steps:
+
+Selecting the settings in your chosen repository
+
+Scroll down and select main as your source
+
+This will give you a deployed link
+
+Here is the link for this project: [Elins home-bar](https://elingrahn.github.io/Elins-Bar/) 
+
 ## Credit
 
 ### Content
 
+Borrowed from the Love Running project:
+
+* General styling on the body
+* Header
+* Nav bar and dropdown toggle
+* Styling of the main to put footer down
+* Background of the text on the landing page as well as on the sign up page
+* Footer, social media styling
+
+Borrowed from Code Institute learning videos:
+
+* Styling of the submit button
+
+Borrowed from w3schools:
+
+* [Flip-cards](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_flip_card)
+
+Borrowed from freecodecamp.org on youtube:
+
+* [Forms](https://www.youtube.com/watch?v=kUMe1FH4CHE&t=1316s) for sign up page  
+
+Borrowed Favicon from:
+
+* (<https://favicon.io/favicon-generator/>)
+
+Recepies for the drinks:
+
+* [Drinkoteket](https://drinkoteket.se/)
+
 ### Media
 
-Favicon from <https://favicon.io/favicon-generator/>
+* Font awesome social media icons
+* Bramble, Caipirhina, ibiza43, strawberry mojito, signup-background and the two images on the landing page are all from [Pexels](https://www.pexels.com)
+* Irish coffee and Kaffe Karlsson are from [Unsplash](https://unsplash.com/)
