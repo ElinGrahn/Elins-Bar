@@ -3,7 +3,6 @@
 The purpose of this website is to give people a way of making bar drinks at home. For those who are having a party, maybe want to show off a little, or those who just want to expreiment and see what they like. This will be a great way for people to have fun at home while also not spending as much money as they would out in a physical bar or pub. This site will target those of legal drinking age who are trying to get a bit more information on the drink making scene.
 
 ![Am I responsive](assets/screenshots/screenshot-pp1.png)
-<!--add am i responsive-->
 
 # User Stories
 
@@ -11,7 +10,6 @@ The user will start at the home page where he/she will get an introduction. By u
 
 ## Features
 
-<!--Add screenshots-->
 * Navigation Bar
 
 There will be a navigation bar on all the three pages, home, drinks and sign up. The navigation bar will look exactly the same on all these pages for easy navigation. This way the user won't have to revert back using the going back button all the time and can jump to every page no matter which page they are on currently.
@@ -71,6 +69,8 @@ HTML, CSS, import of google fonts
 ### Code validation
 
 No errors were found when using the w3c validator and (Jigsaw) validator.
+
+![accessabillity 100](assets/screenshots/screenshot_accessability.png)
 
 ### Fixed bugs
 
