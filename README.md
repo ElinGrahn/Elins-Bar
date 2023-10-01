@@ -69,6 +69,7 @@ HTML, CSS, import of google fonts
 ### Code validation
 
 No errors were found when using the w3c validator and (Jigsaw) validator.
+Lighthouse show 100 in accessability.
 
 ![accessabillity 100](assets/screenshots/screenshot_accessability.png)
 
