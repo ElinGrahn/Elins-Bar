@@ -2,6 +2,7 @@
 
 The purpose of this website is to give people a way of making bar drinks at home. For those who are having a party, maybe want to show off a little, or those who just want to expreiment and see what they like. This will be a great way for people to have fun at home while also not spending as much money as they would out in a physical bar or pub. This site will target those of legal drinking age who are trying to get a bit more information on the drink making scene.
 
+![Am I responsive](assets/screenshots/screenshot-pp1.png)
 <!--add am i responsive-->
 
 # User Stories
@@ -15,25 +16,37 @@ The user will start at the home page where he/she will get an introduction. By u
 
 There will be a navigation bar on all the three pages, home, drinks and sign up. The navigation bar will look exactly the same on all these pages for easy navigation. This way the user won't have to revert back using the going back button all the time and can jump to every page no matter which page they are on currently.
 
+![Navigation bar](assets/screenshots/screenshot_nav.png)
+
 * The Landing Page
 
 Information about the website and what the user can expect will be part of the landing page, as well as some pictures.
+
+![Landing page](assets/screenshots/screenshot_landing.page.png)
 
 * Flip-Cards
   
 To show the recepies to the user there will be flip-cards on the drinks page. This is to allow the user to first see a picture of the drink and as they hover over the card they will see the recipe. As the saying goes `we feast with our eyes´, so by showing a picture of the drinks first it will catch the users attention and also curiosity to find out how it is made.
 
+![Flip-cards](assets/screenshots/screenshot_flip-cards.png)
+
 * Sign up
 
 For the sign up page the user will be able to subscribe to the page so that they can keep up with new recepies that will be added as time goes on. The user will also be able to send in feedback on this page so they can engage in the content.
+
+![Sign up page](assets/screenshots/screenshot_sign-up.png)
 
 * Dump page
 
 Once the form has been submitted, the user will be taken to a new page to confirm that the users information has been sent
 
+![Dump page](assets/screenshots/screenshot_dump-page.png)
+
 * Footer
 
 The footer will also be shown on all three pages and look identical on all of them, this for easy access to social media which will be linked.
+
+![Footer](assets/screenshots/screenshot_footer.png)
 
 ## Future features
 
