@@ -67,7 +67,7 @@ For the text I only resolved it by shortening the text but I would assume that I
 
 ### Browsers
 
-  The website has been tested on microsoft edge and safari
+  The website has been tested and works on microsoft edge, samsung internet as well as safari on Iphone. By using devtools The website has been made to be responsive and all the features are modified to fit all screens. The flip-cards that flip when you hover with the mouse works just as well when you press on it if you're using a phone or tablet.
 
 ## Deployment
 
