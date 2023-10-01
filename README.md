@@ -57,11 +57,11 @@ HTML, CSS, import of google fonts
 
 ### Code validation
 
-No errors were found when using the w3c validator ang (Jigsaw) validator.
+No errors were found when using the w3c validator and (Jigsaw) validator.
 
 ### Fixed bugs
 
-Quite some issues with the flip-cards, in particular the placement of them as well as having the text fit within the cards. 
+Quite some issues with the flip-cards, in particular the placement of them as well as having the text fit within the cards.
 
 For the text I only resolved it by shortening the text but I would assume that I also could've made the gap between each line of text smaller. I didn't want the cards to look to muddy though so I just cut down the text. I fixed the placement issue by seperating the cards into two groups with three in each and put display: inline-block; to have them show up in two rows.
 
@@ -79,7 +79,7 @@ Scroll down and select main as your source
 
 This will give you a deployed link
 
-Here is the link for this project: [Elins home-bar](https://elingrahn.github.io/Elins-Bar/) 
+Here is the link for this project: [Elins home-bar](https://elingrahn.github.io/Elins-Bar/)
 
 ## Credit
 
@@ -116,6 +116,6 @@ Recepies for the drinks:
 
 ### Media
 
-* Font awesome social media icons
+* [Font awesome](https://fontawesome.com/search) social media icons
 * Bramble, Caipirhina, ibiza43, strawberry mojito, signup-background and the two images on the landing page are all from [Pexels](https://www.pexels.com)
 * Irish coffee and Kaffe Karlsson are from [Unsplash](https://unsplash.com/)
