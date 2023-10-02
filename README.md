@@ -6,7 +6,11 @@ The purpose of this website is to give people a way of making bar drinks at home
 
 # User Stories
 
-The user will start at the home page where he/she will get an introduction. By using the navigation bar the user can then go to the link called drinks, this page has six diffrerent flip-cards with a picture of the drink on the front and the recepie on the back.For the user to see the back they will only need to hover with the mouse on a computer or pres  it on a mobile or tablet. Following the link to the sign up page, the user can fill out the form and add a comment if they would like. Once they submit the form they will be taken to a page, not in a new tab, where it says "thank you for visiting my page!". If the user would like to go to the home page, all of the headings lead to that page.
+The user will start at landing page. The user can see two pictures and two paragraphs on the main part of the page with an off white background and ligth green header and footer. At the top the user will see navigation for the drinks and the sign up page. On the footer the user will see links to social media.
+
+On the drinks page  the user will see six different flip-cards with a drink on each one. Once they hover with the mouse on the cards the cards will flip. On the backside is the recepie for the drink.
+
+The user goes to the sign up page and will see a different background, an image of some drinks. In the middle is a form to fill in first and last name, email and a comment if the user would like to. The user will then submit and be taken to a dump page, which has a big "Thank you for visiting my page" in the middle. 
 
 ## Features
 
@@ -80,6 +84,7 @@ Favicon created and imported from favicon generator.
 ### Code validation
 
 No errors were found when using the w3c validator and (Jigsaw) validator.
+
 Lighthouse show 100 in accessability.
 
 ![accessabillity 100](screenshots/screenshot_accessability.png)
@@ -100,17 +105,17 @@ For the text I only resolved it by shortening the text but I would assume that I
 
 #### Landing page
 
-User will start on landing page
+User will start on landing page.
 
  ![Landing page](screenshots/screenshot_landing.page.png)
 
-User will click on drinks in navigation and land on the drinks page
+User will click on drinks in navigation and land on the drinks page.
 
 ![Navigation on a laptop](screenshots/screenshot_nav.laptop.png)
 
 #### Drinks page
 
-User will hover over the flip-cards to see the recepie on the backside
+User will hover over the flip-cards to see the recepie on the backside.
 
 ![flip-cards front](screenshots/screenshot_drinks.png)
 
@@ -118,29 +123,29 @@ User will hover over the flip-cards to see the recepie on the backside
 
 #### Sign up page
 
-User will click on sign up in the navigation and go to the sign up page
+User will click on sign up in the navigation and go to the sign up page.
 
 ![Sign up page](screenshots/screenshot_sign-up.png)
 
-User will click submit and see required first name
+User will click submit and see required first name.
 
 ![Required first name](screenshots/screenshot_firstname.png)
 
-User will fill in first name, click submit and see required last name
+User will fill in first name, click submit and see required last name.
 
 ![Required last name](screenshots/screenshot_lastname.png)
 
-User will fill in last name, click submit and see required email
+User will fill in last name, click submit and see required email.
 
 ![Required email](screenshots/screenshot_email.png)
 
-User will fill in email
+User will fill in email.
 
 ![Ready to submit](screenshots/screenshot_submit.png)
 
 #### Dump page
 
-User will click submit and go to dump page
+User will click submit and go to dump page.
 
 ![Dump page](screenshots/screenshot_dump-page.png)
 
@@ -191,6 +196,6 @@ Recepies for the drinks:
 
 ### Media
 
-* [Font awesome](https://fontawesome.com/search) social media icons
+* [Font awesome](https://fontawesome.com/search) social media icons and nav for phone screens
 * Bramble, Caipirhina, ibiza43, strawberry mojito, signup-background and the two images on the landing page are all from [Pexels](https://www.pexels.com)
 * Irish coffee and Kaffe Karlsson are from [Unsplash](https://unsplash.com/)
