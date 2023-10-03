@@ -6,11 +6,9 @@ The purpose of this website is to give people a way of making bar drinks at home
 
 # User Stories
 
-The user will start at landing page. The user can see two pictures and two paragraphs on the main part of the page with an off white background and ligth green header and footer. At the top the user will see navigation for the drinks and the sign up page. On the footer the user will see links to social media.
+As a visiting user I would like to understand what the page is about from the landing page. I will then use the navigation to go to the drinks page. I would like to make one of the drinks so I will hover with the mouse over one of the six flip-cards. The flip-card will show the backside as long as the mouse hovers over it, thus I can read the recepie for as long as needed.
 
-On the drinks page  the user will see six different flip-cards with a drink on each one. Once they hover with the mouse on the cards the cards will flip. On the backside is the recepie for the drink.
-
-The user goes to the sign up page and will see a different background, an image of some drinks. In the middle is a form to fill in first and last name, email and a comment if the user would like to. The user will then submit and be taken to a dump page, which has a big "Thank you for visiting my page" in the middle. 
+I would like to get in contact with the owner for some ideas so I will go to the sign up page. I will fill in the whole form as required and make a comment in the feedback field. After submitting this will take me to a new page saying "thank you for viiting my page!" so I know my information has been sent.
 
 ## Features
 
